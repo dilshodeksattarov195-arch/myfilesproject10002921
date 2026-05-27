@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productualidate",
+        "uuid": 11657711,
+        "checksum": "w8xu2pg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
